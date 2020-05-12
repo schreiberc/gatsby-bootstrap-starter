@@ -4,7 +4,7 @@
 [![CircleCI](https://circleci.com/gh/jaxx2104/gatsby-starter-bootstrap.svg?style=svg)](https://circleci.com/gh/jaxx2104/gatsby-starter-bootstrap)
 [![dependency Status](https://img.shields.io/david/jaxx2104/gatsby-starter-bootstrap.svg?style=flat-square)](https://david-dm.org/jaxx2104/gatsby-starter-bootstrap#info=dependencies)
 
-Gatsby starter for bootstrap a blog
+Gatsby starter for bootstrap No Blog / .MD content
 
 ![thumb](https://user-images.githubusercontent.com/2681007/42584980-656c9406-856f-11e8-882f-cafa9d89b395.png)
 
